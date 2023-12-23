@@ -5,3 +5,7 @@
 /.env
 
 /cache.db
+
+
+/.cache
+/files
